@@ -25,6 +25,9 @@ A dataset was used to train a classifier, and predictions were compared with act
    - Classification report
    - CSV file of actual vs predicted labels
 
+## Liscence
+- Education Purpose Only
+  
 ## Author
 - **Muhammad Anas Nadeem**  
 - Bachelor of Science in Artificial Intelligence, CUST University

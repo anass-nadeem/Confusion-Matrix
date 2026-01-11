@@ -14,7 +14,7 @@ A dataset was used to train a classifier, and predictions were compared with act
 
 ## Dataset
 - Based on the **Wine dataset** from `sklearn.datasets`
-- Classes renamed to: `WineA`, `WineB`, `WineC` to make the project unique
+- Classes renamed to: `WineA`, `WineB`, `WineC` 
 - Features include 13 chemical properties of wine
 
 ## How to Run
